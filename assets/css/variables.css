@@ -1,0 +1,11 @@
+:root {
+    --main-bg-color: #0b0a24;
+    --main-purple: #201E43;
+    --side-text-color: #727190;
+    --side-active-color: #B7ABFF;
+    --balance-button-color: #444BF8;
+    --input-bg: #201E43;
+    --input-color: #ECEBF69E;
+    --negative: #F35077;
+    --positive: #19DCA9;
+}
